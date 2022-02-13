@@ -20,6 +20,7 @@
    
   <!-- conteudo principal -->
 <div>
+  <div>
   <h3>Cursos em Andamento</h3>
   - <a href="https://cs50.harvard.edu/x/2022/">CS50x 2022</a> █░░░░░░░░░░░░ 7%
   
@@ -37,23 +38,35 @@
   
       🔴.Cybersecurity 
       🔴.Final Project 
-      
- - <a href="https://www.udemy.com/share/101WqG3@9NZnVaSeITUPrdMRBT35TaN7u4B3Zpiv7uJ9LG-oGN9aML3SDAa-Aora2MgGJOrOnA==/">Desenvolvimento Web</a> ██░░░░░░░░░░░░ 15%
-      
-      🟢.Week 0 (Scratch)<br>
-      🔴.Week 1 (C)<br> 
-      🔴.Week 2 (Arrays)<br> 
-      🔴.Week 3 (Algorithms)<br> 
-      🔴.Week 4 (Memory)<br> 
-      🔴.Week 5 (Data Structure)<br> 
-      🔴.Week 6 (Python)<br> 
-      🔴.Week 7 (SQL)<br> 
-      🔴.Week 8 (HTML, CSS, Javascript)<br> 
-      🔴.Week 9 (Flask)<br> 
-      🔴.Week 10 (Emoji)<br> 
+  </div>   
+  <div>
+     - <a href="https://www.udemy.com/share/101WqG3@9NZnVaSeITUPrdMRBT35TaN7u4B3Zpiv7uJ9LG-oGN9aML3SDAa-Aora2MgGJOrOnA==/">Desenvolvimento Web</a> ██░░░░░░░░░░░░ 15%
   
-      🔴.Cybersecurity<br> 
-      🔴.Final Project<br> 
+      🟢.Sessão 1 (Boas Vindas)
+      🟢.Sessão 2 (Preparando-se para o desenvolvimento) 
+      🟢.Sessão 3 (HTML 5 - 2hr47min) 
+      🟢.Sessão 4 (CSS 3 - 5hrs30min) 
+      🟢.Sessão 5 (CSS 3 Intermediario e Avançado - 7h22min) 
+      🟢.Sessão 6 (HTML 5 e CSS 3 Recursos Especiais - 3h32min) 
+      🔴.Sessão 7 (Bootstrap e Design Responsivo - 10h20min) 
+      🔴.Sessão 8 (JavaScript - 11h19min) 
+      🔴.Sessão 9 (ECMAScrip 2015 [ES6] e Orientação a Objetos - 8h42min) 
+      🔴.Sessão 10 (Apache, PHP e MySQL - 40min) 
+      🔴.Sessão 11 (PHP 7 - 9h59min) 
+      🔴.Sessão 12 (PHP 7 e Orientação a Objetos - 5h46min) 
+      🔴.Sessão 13 (Banco de Dados MySQL - 5h06min)
+      🔴.Sessão 14 (Ajax - 2h35min)
+      🔴.Sessão 15 (PHP com PDO e MySQL - 3h36min)
+      🔴.Sessão 16 (Publicação de APlicativos Web na Internet - 55min)
+      🔴.Sessão 17 (jQerry - 5h49min)
+      🔴.Sessão 18 (Padrão de Arquitetura MVC com PHP - 5h49min)
+      🔴.Sessão 19 (PHP 7 e MySQL [Projeto Aplicado - Twitter Clone] - 4h59min)
+      🔴.Sessão 20 (API com Slim Framework - 5h27min)
+      🔴.Sessão 21 (SASS - 2h06min)
+      🔴.Sessão 22 (Aplicações Mobile com IONIC - 3h18min)
+      🔴.Sessão 23 (WordPress - 5h26min)
+      🔴.Sessão 24 (ECMAScript 2015 a 2021 - 5h28min)
+   </div>
   </div>
   
   
