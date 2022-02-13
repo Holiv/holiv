@@ -21,12 +21,39 @@
   <!-- conteudo principal -->
 <div>
   <h3>Cursos em Andamento</h3>
-  - <a href="https://cs50.harvard.edu/x/2022/">CS50x 2022</a> 
+  - <a href="https://cs50.harvard.edu/x/2022/">CS50x 2022</a> █░░░░░░░░░░░░ 7%
   
-      <p>.Week 0 (Scratch)🟢<br>
-        .Week 1 (C) 🔴</p>
-  🟢🔴
+      🟢.Week 0 (Scratch)
+      🔴.Week 1 (C) 
+      🔴.Week 2 (Arrays) 
+      🔴.Week 3 (Algorithms) 
+      🔴.Week 4 (Memory) 
+      🔴.Week 5 (Data Structure) 
+      🔴.Week 6 (Python) 
+      🔴.Week 7 (SQL) 
+      🔴.Week 8 (HTML, CSS, Javascript) 
+      🔴.Week 9 (Flask) 
+      🔴.Week 10 (Emoji) 
   
+      🔴.Cybersecurity 
+      🔴.Final Project 
+      
+ - <a href="https://www.udemy.com/share/101WqG3@9NZnVaSeITUPrdMRBT35TaN7u4B3Zpiv7uJ9LG-oGN9aML3SDAa-Aora2MgGJOrOnA==/">Desenvolvimento Web</a> ██░░░░░░░░░░░░ 15%
+      
+      🟢.Week 0 (Scratch)<br>
+      🔴.Week 1 (C)<br> 
+      🔴.Week 2 (Arrays)<br> 
+      🔴.Week 3 (Algorithms)<br> 
+      🔴.Week 4 (Memory)<br> 
+      🔴.Week 5 (Data Structure)<br> 
+      🔴.Week 6 (Python)<br> 
+      🔴.Week 7 (SQL)<br> 
+      🔴.Week 8 (HTML, CSS, Javascript)<br> 
+      🔴.Week 9 (Flask)<br> 
+      🔴.Week 10 (Emoji)<br> 
+  
+      🔴.Cybersecurity<br> 
+      🔴.Final Project<br> 
   </div>
   
   
