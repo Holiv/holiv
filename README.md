@@ -3,8 +3,8 @@
   <h1>Hello World, me chamo Helton Oliveira 👋</h1>
   <h3>Engenheiro aprendendo a programar - Iniciando aos 30</h3>
     <a href="https://github.com/holiv">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=holiv&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holiv&layout=compact&langs_count=6&theme=swift"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=holiv&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holiv&layout=compact&langs_count=6&theme=swift"/>
  </div><br>
   <div>
     <img align="center" alt="holiv-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
