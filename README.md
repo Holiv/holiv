@@ -2,10 +2,9 @@
 <div align="center">
   <h1>Hello World, me chamo Helton Oliveira 👋</h1>
   <h3>Engenheiro aprendendo a programar - Iniciando aos 30</h3>
-  <a href="dev">Curso</a><br>
     <a href="https://github.com/holiv">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=holiv&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holiv&layout=compact&langs_count=6&theme=calm"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=holiv&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holiv&layout=compact&langs_count=6&theme=swift"/>
  </div><br>
   <div>
     <img align="center" alt="holiv-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,7 +22,7 @@
 <div>
   <div>
   <h3>Cursos em Andamento</h3>
-  - <a href="https://cs50.harvard.edu/x/2022/">CS50x 2022</a> █░░░░░░░░░░░░ 7%
+  - <a href="https://cs50.harvard.edu/x/2022/">CS50x 2022 - Introduction to Computer Science</a> █░░░░░░░░░░░░ 7%
   
       🟢.Week 0 (Scratch)
       🔴.Week 1 (C) 
@@ -39,9 +38,9 @@
   
       🔴.Cybersecurity 
       🔴.Final Project 
-  </div>   
-  <div id="dev">
-     - <a href="https://www.udemy.com/share/101WqG3@9NZnVaSeITUPrdMRBT35TaN7u4B3Zpiv7uJ9LG-oGN9aML3SDAa-Aora2MgGJOrOnA==/">Desenvolvimento Web</a> ██░░░░░░░░░░░░ 15%
+  </div>
+  <div>
+       - <a href="https://www.udemy.com/share/101WqG3@9NZnVaSeITUPrdMRBT35TaN7u4B3Zpiv7uJ9LG-oGN9aML3SDAa-Aora2MgGJOrOnA==/">Desenvolvimento Web</a> ██░░░░░░░░░░░░ 15%
   
       🟢.Sessão 1 (Boas Vindas)
       🟢.Sessão 2 (Preparando-se para o desenvolvimento) 
@@ -67,21 +66,19 @@
       🔴.Sessão 22 (Aplicações Mobile com IONIC - 3h18min)
       🔴.Sessão 23 (WordPress - 5h26min)
       🔴.Sessão 24 (ECMAScript 2015 a 2021 - 5h28min)
-   </div>
+  </div>
+  
+  ##
+  
+  <div>
+      <h3>Próximos cursos</h3>
+      🔘 <a href="https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript">CS50s Web Programming with Python and JavaScript</a><br>
+      🔘 <a href="https://www.codecademy.com/learn/paths/full-stack-engineer-career-path">Full Stack Engineer - Codeacademy</a><br>
+      🔘 <a href="https://github.com/ossu/computer-science">Computer Science - OSSU</a><br>
+    </div>
+  </div>
+  
   </div>
   
   
-  <!--
-**Holiv/holiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
