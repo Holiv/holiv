@@ -2,6 +2,9 @@
 <div align="center">
   <h1>Hello World, me chamo Helton Oliveira 👋</h1>
   <h3>Engenheiro aprendendo a programar - Iniciando aos 30</h3>
+  <h4><i>Computer Science is about to solve problems.</i></h4>
+  <p><i>Aqui você poderá acompanhar o progresso dos meus estudos e da minha transição de carreira. Abaixo está disponível os cursos em andamento (e o seu progresso), os proximos cursos a serem iniciados, as tecnologias que pretendo aprofundar (sujeito a mudança ao longo do caminho, rs.) e por fim terá a lista de projetos de minha autoria que começarão a ser desenvolvidos.</p>
+  <p>Por ter vindo da Engenharia Civil, me considero um profissional extremamente adaptável, com mentalidade totalmente voltada a solução de problemas seja de forma preditiva, seja de forma corretiva com velocidade e amenização de danos. Extremamente curioso, apaixonado por criar e com uma mente rica em novas ideias mergulho de cabeça nessa nova aventura. </i></p>
     <a href="https://github.com/holiv">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=holiv&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holiv&layout=compact&langs_count=6&theme=swift"/>
@@ -71,14 +74,27 @@
   ##
   
   <div>
-      <h3>Próximos cursos</h3>
+     <h3>Próximos cursos</h3>
       🔘 <a href="https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript">CS50s Web Programming with Python and JavaScript</a><br>
       🔘 <a href="https://www.codecademy.com/learn/paths/full-stack-engineer-career-path">Full Stack Engineer - Codeacademy</a><br>
+      🔘 <a href="https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/">Theory of Computation - MIT OCW</a><br>
+      🔘 <a href="https://www.coursera.org/learn/algorithms-part1/home/week/1">Algorithms - Princeton</a><br>
       🔘 <a href="https://github.com/ossu/computer-science">Computer Science - OSSU</a><br>
+        </div>
+  
+  ##
+  
+  </div>
+    <h3>Focus</h3>
+    <div>
+    <img align="center" alt="holiv-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="holive-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="holiv-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="holi-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="holi-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
     </div>
   </div>
   
-  </div>
   
-  
+
  
