@@ -25,10 +25,10 @@
 <div>
   <div>
   <h3>Cursos em Andamento</h3>
-  - <a href="https://cs50.harvard.edu/x/2022/">CS50x 2022 - Introduction to Computer Science</a> █░░░░░░░░░░░░ 7%
+  - <a href="https://cs50.harvard.edu/x/2022/">CS50x 2022 - Introduction to Computer Science</a> 	██░░░░░░░░░░░░ 15%
   
       🟢.Week 0 (Scratch)
-      🔴.Week 1 (C) 
+      🟢.Week 1 (C) 
       🔴.Week 2 (Arrays) 
       🔴.Week 3 (Algorithms) 
       🔴.Week 4 (Memory) 
