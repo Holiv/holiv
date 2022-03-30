@@ -2,8 +2,10 @@
 <div align="center">
   <h1>Hello World, me chamo Helton Oliveira 👋</h1>
   <h3>Engenheiro aprendendo a programar - Iniciando aos 30</h3>
+  <a href=https://holiv.github.io/programando-aos-30-v2.0/index.html><h4>Programando aos 30</h4></a>
   <h4><i>Computer Science is about to solve problems.</i></h4>
   <p><i>Aqui você poderá acompanhar o progresso dos meus estudos e da minha transição de carreira. Abaixo estão disponíveis os cursos em andamento (e o progresso), os proximos cursos a serem iniciados, as tecnologias que pretendo aprofundar (sujeito a mudança ao longo do caminho, rs.) e por fim terá a lista de projetos de minha autoria que começarão a ser desenvolvidos.</p>
+    <p>Todas essas informações também se encontram <a href="https://holiv.github.io/programando-aos-30-v2.0/index.html">aqui</a> no meu site, que inclui um <a href="https://holiv.github.io/programando-aos-30-v2.0/blog-p30.html">Blog</a> onde é postado conteudo criado por mim como, anotações de aulas, criação de projetos, informações, entre outras coisas relacionadas.
   <p>Por ter vindo da Engenharia Civil, me considero um profissional extremamente adaptável, com mentalidade totalmente voltada a solução de problemas seja de forma preditiva, seja de forma corretiva com velocidade e amenização de danos. Extremamente curioso, apaixonado por criar e com uma mente rica em novas ideias mergulho de cabeça nessa nova aventura. </i></p>
     <a href="https://github.com/holiv">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=holiv&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
