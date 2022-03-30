@@ -25,11 +25,11 @@
 <div>
   <div>
   <h3>Cursos em Andamento</h3>
-  - <a href="https://cs50.harvard.edu/x/2022/">CS50x 2022 - Introduction to Computer Science</a> 	██░░░░░░░░░░░░ 15%
+  - <a href="https://cs50.harvard.edu/x/2022/">CS50x 2022 - Introduction to Computer Science</a> 	████░░░░░░░░░░░ 25%
   
       🟢.Week 0 (Scratch)
       🟢.Week 1 (C) 
-      🔴.Week 2 (Arrays) 
+      🟢.Week 2 (Arrays) 
       🔴.Week 3 (Algorithms) 
       🔴.Week 4 (Memory) 
       🔴.Week 5 (Data Structure) 
@@ -43,7 +43,45 @@
       🔴.Final Project 
   </div>
   <div>
-       - <a href="https://www.udemy.com/share/101WqG3@9NZnVaSeITUPrdMRBT35TaN7u4B3Zpiv7uJ9LG-oGN9aML3SDAa-Aora2MgGJOrOnA==/">Desenvolvimento Web</a> ██░░░░░░░░░░░░ 15%
+    - <a href="https://www.codecademy.com/learn/paths/front-end-engineer-career-path">Front-End Engineer</a> ██░░░░░░░░░░░░░ 12%
+  
+      🟢.Introduction to Front-End Engineer Career Path
+      🟢.Overview of Web Development 
+      🟢.Fundamentals of HTML 
+      🟢.Fundamentals of CSS
+      🔴.Developing Websites Locally
+      🔴.Deploying Websites
+      🔴.Improved Styling with CSS
+      🔴.Fundamentals of Web Design
+      🔴.Making a Website Responsive
+      🔴.JavaScript Syntax, Part I
+      🔴.JavaScript Syntax, Part II
+      🔴.Building Interactive Websites
+      🔴.Making A Website Accessible
+      🔴.CSS Transitions and Animation
+      🔴.Git and GitHub, Part I
+      🔴.Portfolio Project: Personal Portfolio Website
+      🔴.JavaScript Syntax, Part III
+      🔴.JavaScript Testing
+      🔴.Async JavaScript and HTTP Requests
+      🔴.Web Apps
+      🔴.React, Part I
+      🔴.React, Part II
+      🔴.Redux
+      🔴.Git and GitHub, Part II
+      🔴.Portfolio Project: Reddit Client
+      🔴.Advanced Web Development
+      🔴.What To Expect in a Technical Interview
+      🔴.Linear Data Structures
+      🔴.Complex Data Structures
+      🔴.Algorithms
+      🔴.Search and Graph Search Algorithms
+      🔴.Interview Skills
+      🔴.Portfolio Project: Open-Ended Project
+  </div>
+  
+  <div>
+       - <a href="https://www.udemy.com/share/101WqG3@9NZnVaSeITUPrdMRBT35TaN7u4B3Zpiv7uJ9LG-oGN9aML3SDAa-Aora2MgGJOrOnA==/">Desenvolvimento Web</a> ████░░░░░░░░░░ 30%
   
       🟢.Seção 1 (Boas Vindas)
       🟢.Seção 2 (Preparando-se para o desenvolvimento) 
@@ -51,7 +89,7 @@
       🟢.Seção 4 (CSS 3 - 5hrs30min) 
       🟢.Seção 5 (CSS 3 Intermediario e Avançado - 7h22min) 
       🟢.Seção 6 (HTML 5 e CSS 3 Recursos Especiais - 3h32min) 
-      🔴.Seção 7 (Bootstrap e Design Responsivo - 10h20min) 
+      🟢.Seção 7 (Bootstrap e Design Responsivo - 10h20min) 
       🔴.Seção 8 (JavaScript - 11h19min) 
       🔴.Seção 9 (ECMAScrip 2015 [ES6] e Orientação a Objetos - 8h42min) 
       🔴.Seção 10 (Apache, PHP e MySQL - 40min) 
