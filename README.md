@@ -1,12 +1,15 @@
 
-<div align="center">
+<div>
   <h1>Hello World, me chamo Helton Oliveira 👋</h1>
-  <h3>Engenheiro aprendendo a programar - Iniciando aos 30</h3>
-  <a href=https://holiv.github.io/programando-aos-30-v2.0/index.html><p>Programando aos 30</p></a>
-  <h4><i>Computer Science is about to solve problems.</i></h4>
-  <p><i>Aqui você poderá acompanhar o progresso dos meus estudos e da minha transição de carreira. Abaixo estão disponíveis os cursos em andamento (e o progresso), os proximos cursos a serem iniciados, as tecnologias que pretendo aprofundar (sujeito a mudança ao longo do caminho, rs.) e por fim terá a lista de projetos de minha autoria que começarão a ser desenvolvidos.</p>
-    <p>Todas essas informações também se encontram <a href="https://holiv.github.io/programando-aos-30-v2.0/index.html">aqui</a> no meu site, que inclui um <a href="https://holiv.github.io/programando-aos-30-v2.0/blog-p30.html">Blog</a> onde é postado conteudo criado por mim como, anotações de aulas, criação de projetos, informações, entre outras coisas relacionadas.
-  <p>Por ter vindo da Engenharia Civil, me considero um profissional extremamente adaptável, com mentalidade totalmente voltada a solução de problemas seja de forma preditiva, seja de forma corretiva com velocidade e amenização de danos. Extremamente curioso, apaixonado por criar e com uma mente rica em novas ideias mergulho de cabeça nessa nova aventura. </i></p>
+  <ul>
+    <li><h4>Me apaixonei pela Ciência da Computação. 💻</h4></li>
+    <li>Meus repositórios são o registro da minha jornada 📃</li>
+    <li>Comunidade para Programadores que começaram após os 30 em construção - <a href="https://holiv.github.io/programando-aos-30-v2.0/index.html">aqui</a> 👨🏽‍💻</li>
+    <li>Engenheiro Civil e Engenheiro de Segurança do Trabalho por formação. Sou um profissional com extrema facilidade de aprendizado e com mentalidade voltada a eficiencia e solução de problemas. 👷🏽</li>
+    <li>Pessoa extremamente curiosa e de mente criativa. 🧠</li>
+  </ul>
+  
+  </p>
     <a href="https://github.com/holiv">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=holiv&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holiv&layout=compact&langs_count=6&theme=swift"/>
@@ -28,7 +31,7 @@
 <div>
   <div>
   <h3>Cursos em Andamento</h3>
-  - <a href="https://cs50.harvard.edu/x/2022/">CS50x 2022 - Introduction to Computer Science</a> 	████░░░░░░░░░░░ 25%
+  - <a href="https://cs50.harvard.edu/x/2022/">CS50x 2022 - Introduction to Computer Science</a>
   
       🟢.Week 0 (Scratch)
       🟢.Week 1 (C) 
@@ -46,7 +49,7 @@
       🔴.Final Project 
   </div>
   <div>
-    - <a href="https://www.codecademy.com/learn/paths/front-end-engineer-career-path">Front-End Engineer</a> ██░░░░░░░░░░░░░ 12%
+    - <a href="https://www.codecademy.com/learn/paths/front-end-engineer-career-path">Front-End Engineer</a>
   
       🟢.Introduction to Front-End Engineer Career Path
       🟢.Overview of Web Development 
@@ -85,15 +88,6 @@
   
   ##
   
-  </div>
-    <h3>Focus</h3>
-    <div>
-    <img align="center" alt="holiv-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="holive-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="holiv-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="holi-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="holi-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
-    </div>
   </div>
   
   
