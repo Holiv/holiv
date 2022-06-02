@@ -14,6 +14,7 @@
   <div>
     <img align="center" alt="holiv-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="holiv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="holiv-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   </div>
   
   ##
@@ -32,8 +33,8 @@
       🟢.Week 0 (Scratch)
       🟢.Week 1 (C) 
       🟢.Week 2 (Arrays) 
-      🔴.Week 3 (Algorithms) 
-      🔴.Week 4 (Memory) 
+      🟢.Week 3 (Algorithms) 
+      🟢.Week 4 (Memory) 
       🔴.Week 5 (Data Structure) 
       🔴.Week 6 (Python) 
       🔴.Week 7 (SQL) 
@@ -51,11 +52,11 @@
       🟢.Overview of Web Development 
       🟢.Fundamentals of HTML 
       🟢.Fundamentals of CSS
-      🔴.Developing Websites Locally
-      🔴.Deploying Websites
-      🔴.Improved Styling with CSS
-      🔴.Fundamentals of Web Design
-      🔴.Making a Website Responsive
+      🟢.Developing Websites Locally
+      🟢.Deploying Websites
+      🟢.Improved Styling with CSS
+      🟢.Fundamentals of Web Design
+      🟢.Making a Website Responsive
       🔴.JavaScript Syntax, Part I
       🔴.JavaScript Syntax, Part II
       🔴.Building Interactive Websites
@@ -81,46 +82,6 @@
       🔴.Interview Skills
       🔴.Portfolio Project: Open-Ended Project
   </div>
-  
-  <div>
-       - <a href="https://www.udemy.com/share/101WqG3@9NZnVaSeITUPrdMRBT35TaN7u4B3Zpiv7uJ9LG-oGN9aML3SDAa-Aora2MgGJOrOnA==/">Desenvolvimento Web</a> ████░░░░░░░░░░ 30%
-  
-      🟢.Seção 1 (Boas Vindas)
-      🟢.Seção 2 (Preparando-se para o desenvolvimento) 
-      🟢.Seção 3 (HTML 5 - 2hr47min) 
-      🟢.Seção 4 (CSS 3 - 5hrs30min) 
-      🟢.Seção 5 (CSS 3 Intermediario e Avançado - 7h22min) 
-      🟢.Seção 6 (HTML 5 e CSS 3 Recursos Especiais - 3h32min) 
-      🟢.Seção 7 (Bootstrap e Design Responsivo - 10h20min) 
-      🔴.Seção 8 (JavaScript - 11h19min) 
-      🔴.Seção 9 (ECMAScrip 2015 [ES6] e Orientação a Objetos - 8h42min) 
-      🔴.Seção 10 (Apache, PHP e MySQL - 40min) 
-      🔴.Seção 11 (PHP 7 - 9h59min) 
-      🔴.Seção 12 (PHP 7 e Orientação a Objetos - 5h46min) 
-      🔴.Seção 13 (Banco de Dados MySQL - 5h06min)
-      🔴.Seção 14 (Ajax - 2h35min)
-      🔴.Seção 15 (PHP com PDO e MySQL - 3h36min)
-      🔴.Seção 16 (Publicação de APlicativos Web na Internet - 55min)
-      🔴.Seção 17 (jQerry - 5h49min)
-      🔴.Seção 18 (Padrão de Arquitetura MVC com PHP - 5h49min)
-      🔴.Seção 19 (PHP 7 e MySQL [Projeto Aplicado - Twitter Clone] - 4h59min)
-      🔴.Seção 20 (API com Slim Framework - 5h27min)
-      🔴.Seção 21 (SASS - 2h06min)
-      🔴.Seção 22 (Aplicações Mobile com IONIC - 3h18min)
-      🔴.Seção 23 (WordPress - 5h26min)
-      🔴.Seção 24 (ECMAScript 2015 a 2021 - 5h28min)
-  </div>
-  
-  ##
-  
-  <div>
-     <h3>Próximos cursos</h3>
-      🔘 <a href="https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript">CS50s Web Programming with Python and JavaScript</a><br>
-      🔘 <a href="https://www.codecademy.com/learn/paths/full-stack-engineer-career-path">Full Stack Engineer - Codeacademy</a><br>
-      🔘 <a href="https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/">Theory of Computation - MIT OCW</a><br>
-      🔘 <a href="https://www.coursera.org/learn/algorithms-part1/home/week/1">Algorithms - Princeton</a><br>
-      🔘 <a href="https://github.com/ossu/computer-science">Computer Science - OSSU</a><br>
-        </div>
   
   ##
   
