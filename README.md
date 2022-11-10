@@ -31,6 +31,7 @@
     <img align="center" alt="holiv-HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
     <img align="center" alt="holiv-HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
     <img align="center" alt="holiv-HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
+    <img align="center" alt="holiv-HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg">
   </div>
   
    ------
