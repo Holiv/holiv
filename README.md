@@ -5,8 +5,9 @@
   <ul>
     <li><h4><i>Me apaixonei pela Ciência da Computação. 💻</h4></li></i>
     <li><b>Roadmap - Cursos e Formações em progresso <a href="https://github.com/Holiv/roadmap-helton-oliveira">aqui</a></b>🎓
+    <li>100 Days of Code <a href="https://github.com/Holiv/100DaysOfCode/blob/main/log.md">Log (Registro e Repositórios)</a> 👨🏻‍💻</li>
     <li>Meus repositórios são o registro da minha jornada 📃</li>
-    <li>Comunidade para Programadores que começaram após os 30 em construção - <a href="https://holiv.github.io/programando-aos-30-v2.0/index.html">aqui</a> 👨🏽‍💻</li>
+    <li>Comunidade para Programadores que começaram após os 30 em construção - <a href="https://p30.dev">aqui</a> 👨🏽‍💻</li>
     <li>Engenheiro Civil e Engenheiro de Segurança do Trabalho por formação. Sou um profissional com extrema facilidade de aprendizado e com mentalidade voltada a eficiencia e solução de problemas. 👷🏽</li>
     <li>Pessoa extremamente curiosa e de mente criativa. 🧠</li>
   </ul>
@@ -28,7 +29,7 @@
     <img align="center" alt="holiv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="holiv-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="holiv-HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
-    <img align="center" alt="holiv-HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
+    <img align="center" alt="holiv-HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
     <img align="center" alt="holiv-HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
   </div>
   
