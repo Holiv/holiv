@@ -4,8 +4,7 @@
   
   <ul>
     <li><h4><i>Me apaixonei pela Ciência da Computação. 💻</h4></li></i>
-    <li><b>Roadmap - Cursos e Formações em progresso <a href="https://github.com/Holiv/roadmap-helton-oliveira">aqui</a></b>🎓
-    <li>100 Days of Code <a href="https://github.com/Holiv/100DaysOfCode/blob/main/log.md">Log (Registro e Repositórios)</a> 👨🏻‍💻</li>
+    <li><b>Roadmap - Cursos e Formações em progresso <a href="https://github.com/Holiv/java_backend_architect-roadmap">aqui</a></b>🎓
     <li>Meus repositórios são o registro da minha jornada 📃</li>
     <li>Comunidade para Programadores que começaram após os 30 em construção - <a href="https://p30.dev">aqui</a> 👨🏽‍💻</li>
     <li>Engenheiro Civil e Engenheiro de Segurança do Trabalho por formação. Sou um profissional com extrema facilidade de aprendizado e com mentalidade voltada a eficiencia e solução de problemas. 👷🏽</li>
