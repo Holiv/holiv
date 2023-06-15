@@ -1,17 +1,17 @@
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/helton-so/)](https://www.linkedin.com/in/helton-so/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/p30.dev/)](https://www.instagram.com/p30.dev/)
 
-<div>
-  <h1>Hello World, me chamo Helton Oliveira 👋</h1>
+<h1><samp>Hello World, i am Helton Oliveira 👋</samp></h1>
   
-  <ul>
-    <li><h4><i>Me apaixonei pela Ciência da Computação. 💻</h4></li></i>
-    <li><b>Roadmap - Cursos e Formações em progresso <a href="https://github.com/Holiv/java_backend_architect-roadmap">aqui</a></b>🎓
-    <li>Meus repositórios são o registro da minha jornada 📃</li>
-    <li>Comunidade para Programadores que começaram após os 30 em construção - <a href="https://p30.dev">aqui</a> 👨🏽‍💻</li>
-    <li>Engenheiro Civil e Engenheiro de Segurança do Trabalho por formação. Sou um profissional com extrema facilidade de aprendizado e com mentalidade voltada a eficiencia e solução de problemas. 👷🏽</li>
-    <li>Pessoa extremamente curiosa e de mente criativa. 🧠</li>
-  </ul>
-  </div>
   
+- 💻&nbsp;<samp>__Proud father of a beatiful boy and a Backend Developer__</samp>
+- 🎓&nbsp;<samp>My roadmap to become a Software Architect [__here__](https://github.com/Holiv/java_backend_architect-roadmap)</samp>
+- 👨🏽‍💻&nbsp;<samp>Community for those who have transitioned to Software Development after the 30's [__here__](https://discord.gg/Bvmsv5ZezJ)</samp>
+- 👷🏽‍&nbsp;<samp>Civil Engineer with over 10 years of experience solving real problems</samp>
+- 🧠&nbsp;<samp>Curious and Criative mind</samp>
+- 📝&nbsp;<samp>__You can find more about me__ [__here__](https://p30.dev)</samp>
+
+<!--
   ------
   
   </p>
@@ -20,9 +20,22 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=holiv&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holiv&layout=compact&langs_count=6&theme=github_dark"/>
   <br></div>
-  
-   ------    
-  
+ -->
+   ------
+<div align="center">
+ <!-- Java -->
+<img width="36px" src="https://cdn.iconscout.com/icon/free/png-256/free-java-59-1174952.png">
+ <!-- Spring -->
+<img width="36px" src="https://user-images.githubusercontent.com/97141987/236517831-f28fcc0c-dc30-48dd-87d5-242eb80ae867.png">
+ <!-- PostgreSQL -->
+<img width="36px" src="https://user-images.githubusercontent.com/97141987/236518046-9112d741-f706-4bdc-bebe-c1c78b411e2d.png">
+ <!-- Dcoker -->
+<img width="36px" src="https://user-images.githubusercontent.com/97141987/236518766-e01dec6a-7c8d-4913-8f9b-167146eaba05.png">
+ <!-- AWS -->
+<img width="36px" src="https://user-images.githubusercontent.com/97141987/236519009-8b7a6020-8527-4cc7-b54b-635e4db8c450.png">
+</div>
+
+<!--
   <div align="center">
     <img align="center" alt="holiv-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="holiv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -40,7 +53,7 @@
   <a href = "mailto:mrheltonso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/oliveira.sk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/holiv" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a></div>
-  
+  -->
    
   
 
